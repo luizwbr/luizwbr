@@ -5,4 +5,4 @@ Luiz Weber aqui :)
 
 ## http://weber.eti.br
 
-<link rel="stylesheet" href="/luizwbr/luizwbr/blob/master/assets/css/body.css">
+<link rel="stylesheet" href="./assets/css/body.css">
