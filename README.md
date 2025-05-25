@@ -8,4 +8,6 @@ Também atuei em projetos open source como Joomla e Virtuemart também.
 
 Fique a vontade para me contactar, tirar dúvidas ou só trocar uma ideia.
 
+E-mail: luiz.weber@pm.me
+
 ## http://weber.eti.br
