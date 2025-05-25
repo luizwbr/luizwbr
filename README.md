@@ -1,9 +1,10 @@
 # Oi, seja bem-vindo
-Luiz Weber aqui :)
-Tenho mais de 15 anos de experiência em desenvolvimento de software.
+Meu nome é Luiz Weber.
 
-Atuei em diversos projetos, principalmente voltados a CRM, e-commerce e Big Data.
-Tenho publicados vários plugins para Joomla e Virtuemart também.
+Programador desde 2009.
+
+Atuei em diversos projetos, principalmente voltados a criação de sites, CRM, e-commerce e Big Data.
+Também atuei em projetos open source como Joomla e Virtuemart também.
 
 Fique a vontade para me contactar, tirar dúvidas ou só trocar uma ideia.
 
